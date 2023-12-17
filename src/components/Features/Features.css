@@ -1,0 +1,9 @@
+.ftr{
+    background: linear-gradient(
+        to bottom,
+        #394264 0%,
+        #394264 60%,
+        #252B42 60%,
+        #252B42 100%
+      );
+}
